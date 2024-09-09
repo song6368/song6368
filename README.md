@@ -1,9 +1,11 @@
-👋 백엔드 개발자 송정현입니다!<br/>
-🛠 기술 스택<br/>
-Three.js: WebGL을 활용한 인터랙티브 3D 경험 🌐<br/>
-Cesium.js: 3D 지리정보 시스템(Geospatial) 데이터 시각화 🌍<br/>
-Spring: 백엔드 개발 능력 💻<br/>
-Express JS: 간결하고 유연한 Node.js 웹 프레임워크 ⚡<br/>
-PostgreSQL: 고성능 애플리케이션을 위한 효율적이고 확장 가능한 데이터베이스 솔루션 🗄️<br/>
-🌟 저에 대해<br/>
-안녕하세요! 저는 성능과 사용자 경험에 중점을 둔 최신 애플리케이션 개발에 열정을 가지고 있습니다. 특히 3D 시각화와 지리정보 데이터를 다루는 창의적이고 기술적인 프로젝트에 관심이 많습니다.
+## 🛠️ Tech Stack
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) 
+![Cesium](https://img.shields.io/badge/Cesium-00599C?style=flat-square&logo=cesium&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+- 🌐 **Frontend/3D Rendering**: Three.js, Cesium.js
+- 💻 **Backend**: Spring, Express.js
+- 🗄️ **Database**: PostgreSQL
