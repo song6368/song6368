@@ -8,4 +8,4 @@
 
 - 🌐 **Frontend/3D Rendering**: Three.js, Cesium.js
 - 💻 **Backend**: Spring, Express.js
-- 🗄️ **Database**: PostgreSQL
+- 🗄️ **Database**: PostgreSQL, SQLite3
